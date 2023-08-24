@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753899253844",
+    "project_id": "smartwatch-e4736",
+    "storage_bucket": "smartwatch-e4736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753899253844:android:7f180aa186ed2c2793bdc1",
+        "android_client_info": {
+          "package_name": "com.example.smartwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753899253844-fnoit0lq2066e1u65okl4g9vkobb1m8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRwFCj4ZoPRUGRg3Ej36l7IMOAQWfTgy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753899253844-fnoit0lq2066e1u65okl4g9vkobb1m8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
